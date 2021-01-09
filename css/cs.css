@@ -1,0 +1,19 @@
+body{
+}
+.head{
+    text-align: center;
+    position: relative;
+    bottom: -10;
+    right: -380px;
+    width: 500px;
+    border: 5px solid #258;
+    font-size:50px;
+    background-color: #e7e595;
+
+}
+.add{
+    position: relative;
+    bottom: -10;
+    right: -600px;
+
+}

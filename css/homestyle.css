@@ -1,0 +1,28 @@
+body{
+
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+}
+h1{
+    position: relative;
+    bottom: -10PX;
+    right: -350px;
+    width: 800px;
+    border: 5px solid #258;
+    font-size:60px;
+    background-color: yellow;
+}
+h2{
+    height: 100px;
+    padding-top: -80px;
+}
+
+.end{
+padding-left: 600px;
+    position: fixed;
+    padding-top: 230px;
+
+}
